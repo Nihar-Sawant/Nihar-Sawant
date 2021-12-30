@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nihar-Sawant
-- 👀 I’m interested in ML/AI, Backend Development, AR/VR development
-- 🌱 I’m currently learning Python, Java and JavaScript
+- 👀 I’m interested in FrontEnd Development, Web 3.0 and Blockchain
+- 🌱 I’m currently learning JavaScript, ReactJS and BlockChain
 - 💞️ I’m looking to collaborate on cool and fun projects that would test my ability to the best
 - 📫 How to reach me ->
     + LinkedIn  - https://www.linkedin.com/in/nihar-sawant-849a62182/
